@@ -59,6 +59,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VRestini/VRestini/output/snake.svg" alt="Snake animation" />
 
 ###
