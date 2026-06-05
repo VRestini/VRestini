@@ -100,6 +100,3 @@
 
 <br>
 
----
-
-<p align="center">✨ "Código é poesia, debug é filosofia" ✨</p>
